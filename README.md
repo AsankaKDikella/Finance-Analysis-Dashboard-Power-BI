@@ -59,7 +59,7 @@ This project presents an interactive Finance Analysis Dashboard built in Power B
 
 # Repository Structure
 - Dataset : <a href="https://github.com/AsankaKDikella/Finance-Analysis-Dashboard-Power-BI/blob/main/finance_transactions.csv</a>
-- Dashboard
+- Dashboard : <a href="https://github.com/AsankaKDikella/Finance-Analysis-Dashboard-Power-BI/blob/main/Finance_Analysis_Project.pbix</a>
 - Dashboard Images
 
 # Business Value
