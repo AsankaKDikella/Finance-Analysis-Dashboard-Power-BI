@@ -37,14 +37,14 @@ This project presents an interactive Finance Analysis Dashboard built in Power B
 - Profit Margin
 - Monthly Performance
 - Year-to-Date (YTD) Analysis
-- 
+  
 # Key Insights
 
 - Identifies revenue and expense trends over time.
 - Highlights profitable and underperforming periods.
 - Enables quick comparison across different categories.
 - Supports financial planning and performance monitoring.
-- 
+  
 # Skills Demonstrated
 
 - Data Cleaning
@@ -56,5 +56,19 @@ This project presents an interactive Finance Analysis Dashboard built in Power B
 - Dashboard Design
 - KPI Development
 - Interactive Reporting
+
+# Repository Structure
+- Dataset : <a href="https://github.com/AsankaKDikella/Finance-Analysis-Dashboard-Power-BI/blob/main/finance_transactions.csv</a>
+- Dashboard
+- Dashboard Images
+
+# Business Value
+
+This dashboard enables business users to monitor financial performance in real time, identify growth opportunities, track profitability, and make informed strategic decisions through interactive data visualization.
+
+# Feedback & Collaboration
+
+Feedback, suggestions, and collaboration are always welcome.
+If you have ideas to improve this project or would like to work together on data analytics, Power BI, SQL, Python, or Excel projects, feel free to open an issue or connect with me.
 
 
